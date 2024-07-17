@@ -1,5 +1,5 @@
 # 🛒 Women's E-Commerce Clothing Reviews
-![img](\img\img.jpg)
+![img](https://github.com/moxeeem/ClothingReviews/blob/main/img/img.jpg)
 
 ## Project Description
 
